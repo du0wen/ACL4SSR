@@ -1,6 +1,6 @@
 payload:
   # 内容：Stripe
-  # 数量：8条
+  # 数量：9条
   - DOMAIN-SUFFIX,link.com
   - DOMAIN-SUFFIX,stripe-terminal-local-reader.net
   - DOMAIN-SUFFIX,stripe.com
@@ -8,4 +8,5 @@ payload:
   - DOMAIN-SUFFIX,stripe.events
   - DOMAIN-SUFFIX,stripe.global
   - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,stripeassets.com
   - DOMAIN-SUFFIX,stripecdn.com
